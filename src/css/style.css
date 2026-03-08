@@ -30,6 +30,7 @@ body {
     background: transparent;
     border-radius: 3px;
     box-shadow: 0px 8px 10px rgba(0, 0, 0, .5);
+    backdrop-filter: blur(160px);
 
 }
 
