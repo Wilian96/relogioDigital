@@ -17,7 +17,7 @@ Um relógio digital simples e elegante desenvolvido com tecnologias web básicas
 Para clonar este repositório em sua máquina local, execute o seguinte comando no terminal:
 
 ```bash
-git clone https://github.com/seu-usuario/relogio-digital.git
+git clone https://github.com/wilian96/relogio-digital.git
 ```
 
 Substitua `seu-usuario` pelo seu nome de usuário no GitHub, caso o repositório esteja hospedado lá.
@@ -27,13 +27,6 @@ Substitua `seu-usuario` pelo seu nome de usuário no GitHub, caso o repositório
 1. Abra o arquivo `index.html` em seu navegador web preferido.
 2. O relógio digital será exibido e atualizado automaticamente.
 
-## 📋 Últimas Atualizações
-
-### Versão 1.0.0 (8 de março de 2026)
-- ✅ Lançamento inicial do relógio digital
-- ✅ Implementação básica com HTML, CSS e JavaScript
-- ✅ Design responsivo e elegante
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -42,6 +35,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <div align="center">
 
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por [Wilian Lima]
 
 </div> 
